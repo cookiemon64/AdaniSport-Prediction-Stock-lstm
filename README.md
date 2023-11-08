@@ -1,1 +1,1 @@
-# AdaniSport_Prediction_Stock_lstm
+# AdaniSport-Prediction-Stock-lstm
